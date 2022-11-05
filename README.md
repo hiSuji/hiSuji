@@ -14,3 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=500&color=F79893&multiline=true&width=500&height=60&lines=Hi%2C+I'm+suji.;I'm+a+backend+developer.)](https://git.io/typing-svg)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hisuji&hide=stars,contribs&show_icons=true&theme=dracula)
+
+- 📝 I regularly write articles on [https://sjkim-dev.tistory.com](https://sjkim-dev.tistory.com)
+
+- 📫 How to reach me sujikim.dev@gmail.com
