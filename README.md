@@ -15,6 +15,6 @@
 
 ![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hisuji&hide=stars,contribs&show_icons=true&theme=dracula)
 
-- 📝 I regularly write articles on [https://sjkim-dev.tistory.com](https://sjkim-dev.tistory.com)
+- 📝 I regularly write articles on [https://velog.io/@sj_kim/posts](https://velog.io/@sj_kim/posts)
 
-- 📫 How to reach me sujikim.dev@gmail.com
+- 📫 How to reach me kim1989suji@gmail.com
